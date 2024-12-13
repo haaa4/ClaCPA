@@ -59,6 +59,7 @@
             this.uiButton1 = new Sunny.UI.UIButton();
             this.uiLabel7 = new Sunny.UI.UILabel();
             this.tabPage6 = new System.Windows.Forms.TabPage();
+            this.uiSymbolButton5 = new Sunny.UI.UISymbolButton();
             this.uiLabel12 = new Sunny.UI.UILabel();
             this.uiLabel11 = new Sunny.UI.UILabel();
             this.uiLabel10 = new Sunny.UI.UILabel();
@@ -66,7 +67,6 @@
             this.uiLabel8 = new Sunny.UI.UILabel();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.process1 = new System.Diagnostics.Process();
-            this.uiSymbolButton5 = new Sunny.UI.UISymbolButton();
             this.uiTabControlMenu1.SuspendLayout();
             this.tabPage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -501,6 +501,20 @@
             this.tabPage6.Text = "关于";
             this.tabPage6.UseVisualStyleBackColor = true;
             // 
+            // uiSymbolButton5
+            // 
+            this.uiSymbolButton5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.uiSymbolButton5.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.uiSymbolButton5.Location = new System.Drawing.Point(24, 175);
+            this.uiSymbolButton5.MinimumSize = new System.Drawing.Size(1, 1);
+            this.uiSymbolButton5.Name = "uiSymbolButton5";
+            this.uiSymbolButton5.Size = new System.Drawing.Size(100, 35);
+            this.uiSymbolButton5.Symbol = 61595;
+            this.uiSymbolButton5.TabIndex = 5;
+            this.uiSymbolButton5.Text = "github";
+            this.uiSymbolButton5.TipsFont = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.uiSymbolButton5.Click += new System.EventHandler(this.uiSymbolButton5_Click);
+            // 
             // uiLabel12
             // 
             this.uiLabel12.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
@@ -539,7 +553,7 @@
             this.uiLabel9.Name = "uiLabel9";
             this.uiLabel9.Size = new System.Drawing.Size(201, 23);
             this.uiLabel9.TabIndex = 1;
-            this.uiLabel9.Text = "版本：v0.1-beta";
+            this.uiLabel9.Text = "版本：v0.1.1";
             // 
             // uiLabel8
             // 
@@ -567,20 +581,6 @@
             this.process1.StartInfo.StandardOutputEncoding = null;
             this.process1.StartInfo.UserName = "";
             this.process1.SynchronizingObject = this;
-            // 
-            // uiSymbolButton5
-            // 
-            this.uiSymbolButton5.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.uiSymbolButton5.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.uiSymbolButton5.Location = new System.Drawing.Point(24, 175);
-            this.uiSymbolButton5.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiSymbolButton5.Name = "uiSymbolButton5";
-            this.uiSymbolButton5.Size = new System.Drawing.Size(100, 35);
-            this.uiSymbolButton5.Symbol = 61595;
-            this.uiSymbolButton5.TabIndex = 5;
-            this.uiSymbolButton5.Text = "github";
-            this.uiSymbolButton5.TipsFont = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.uiSymbolButton5.Click += new System.EventHandler(this.uiSymbolButton5_Click);
             // 
             // SetForm
             // 

@@ -118,7 +118,7 @@
             this.uiLabel4.Name = "uiLabel4";
             this.uiLabel4.Size = new System.Drawing.Size(100, 23);
             this.uiLabel4.TabIndex = 5;
-            this.uiLabel4.Text = "v0.1-beta";
+            this.uiLabel4.Text = "v0.1.1";
             // 
             // StartForm
             // 

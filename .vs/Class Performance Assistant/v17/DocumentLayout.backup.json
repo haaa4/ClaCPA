@@ -3,32 +3,50 @@
   "WorkspaceRootPath": "D:\\C#\\github\\ClaCPA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\knowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\knowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\copyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\copyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\knowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\knowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\copyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\copyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +56,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +68,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B",
+              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj",
+              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj*",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T13:28:52.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\StartForm.cs",
+              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\StartForm.cs",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\StartForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\StartForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:27:38.863Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KnowForm.cs",
+              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\KnowForm.cs",
+              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\KnowForm.cs",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\KnowForm.cs",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\KnowForm.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:24:15.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KnowForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\KnowForm.cs",
+              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\KnowForm.cs",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\KnowForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\KnowForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:22:01.401Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ChooseForm.cs",
               "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs",
               "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs",
@@ -58,12 +125,11 @@
               "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAASwFIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:06:34.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T13:06:34.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ChooseForm.Designer.cs",
               "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.Designer.cs",
               "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.Designer.cs",
@@ -71,69 +137,63 @@
               "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.Designer.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAuwE8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:14:12.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T13:14:12.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ChooseForm.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs",
               "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs",
               "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:13:39.021Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-12-13T13:13:39.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "CopyForm.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\CopyForm.cs",
               "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\CopyForm.cs",
               "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\CopyForm.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\CopyForm.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:13:36.025Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SetForm.cs",
-              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
-              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
-              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs*",
-              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAswDcAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:06:51.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T13:13:36.025Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SetForm.cs [\u8BBE\u8BA1]",
+              "Title": "SetForm.cs",
               "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
               "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
-              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs [\u8BBE\u8BA1]*",
-              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs [\u8BBE\u8BA1]*",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:06:49.479Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-12-13T13:06:51.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "SetForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
+              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:06:49.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MainForm.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\MainForm.cs",
               "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\MainForm.cs",
               "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\MainForm.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\MainForm.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:05:46.688Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-12-13T13:05:46.688Z"
             }
           ]
         },

@@ -73,11 +73,7 @@ namespace 班级表演小助手
         private void hScrollBar1_ValueChanged(object sender, EventArgs e)
         {
             button1.Location = new Point(3 + hScrollBar1.Value, 173);
-            if(hScrollBar1.Value>=388)
-            {
-                uiSymbolButton1.Visible = true;
-                timer1.Enabled = true;
-            }
+
         }
 
         private void KnowForm_FormClosed(object sender, FormClosedEventArgs e)
@@ -86,7 +82,7 @@ namespace 班级表演小助手
             th.SetApartmentState(ApartmentState.STA);
             th.Start();
         }
-        int time = 20;
+        int time = 30;
         private void timer1_Tick(object sender, EventArgs e)
         {
             time--;
