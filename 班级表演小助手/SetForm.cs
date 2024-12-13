@@ -44,19 +44,16 @@ namespace 班级表演小助手
             uiTextBox2.Text = Json.ChooseText;
             uiSwitch1.Active = Json.transparent;
             uiColorPicker1.Value = Json.backcolor;
-            if (Json.image == "班徽")
-            {
-                filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "image", "班徽.png");
-                Image image = Image.FromFile(filePath);
-                pictureBox1.Image = image;
-                openFileDialog1.FileName = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "image", "班徽.png");
-            }
-            else
+            try
             {
                 filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "image", Json.image);
                 Image image = Image.FromFile(filePath);
                 pictureBox1.Image = image;
                 openFileDialog1.FileName = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "image", Json.image);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("加载设置出错：\n" + ex.ToString());
             }
             uiSwitch1_ValueChanged(sender,uiSwitch1.Active);
             filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "start.json");
@@ -72,7 +69,7 @@ namespace 班级表演小助手
             nowjson.ChooseText = "选择一个吧！";
             nowjson.transparent = true;
             nowjson.backcolor = Color.White;
-            nowjson.image = "班徽";
+            nowjson.image = "默认图片.jpg";
             string updatedJsonString = JsonConvert.SerializeObject(nowjson, Formatting.Indented);
             string filepath= Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "settings.json");
             File.WriteAllText(filepath, updatedJsonString);
@@ -126,11 +123,11 @@ namespace 班级表演小助手
 
         private void uiSymbolButton4_Click(object sender, EventArgs e)
         {
-            Json.image = "班徽";
-            string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "image", "班徽.png");
+            Json.image = "默认图片.jpg";
+            string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "image", "默认图片.jpg");
             Image image = Image.FromFile(filePath);
             pictureBox1.Image = image;
-            openFileDialog1.FileName = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "image", "班徽.png");
+            openFileDialog1.FileName = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "image", "默认图片.jpg");
         }
 
         private void uiSwitch2_ValueChanged(object sender, bool value)

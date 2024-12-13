@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\github\\ClaCPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\knowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\knowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\copyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\copyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\chooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|d:\\c#\\github\\clacpa\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDAC8D5D-1978-4A04-A136-8B5D22D62D13}|\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B.csproj|solutionrelative:\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1424915320:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KnowForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\KnowForm.cs",
+              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\KnowForm.cs",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\KnowForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\KnowForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:22:01.401Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChooseForm.cs",
+              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs",
+              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAASwFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:06:34.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChooseForm.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.Designer.cs",
+              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.Designer.cs",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.Designer.cs",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.Designer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwE8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:14:12.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChooseForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs",
+              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\ChooseForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:13:39.021Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CopyForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\CopyForm.cs",
+              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\CopyForm.cs",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\CopyForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\CopyForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:13:36.025Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SetForm.cs",
+              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
+              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:06:51.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SetForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
+              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\SetForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:06:49.479Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\MainForm.cs",
+              "RelativeDocumentMoniker": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\MainForm.cs",
+              "ToolTip": "D:\\C#\\github\\ClaCPA\\\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u73ED\u7EA7\u8868\u6F14\u5C0F\u52A9\u624B\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:05:46.688Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 109,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

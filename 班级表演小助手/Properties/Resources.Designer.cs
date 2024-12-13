@@ -61,20 +61,11 @@ namespace 班级表演小助手.Properties {
         }
         
         /// <summary>
-        ///   查找类似  的本地化字符串。
-        /// </summary>
-        internal static string Image1 {
-            get {
-                return ResourceManager.GetString("Image1", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 班徽 {
+        internal static System.Drawing.Bitmap 默认图片 {
             get {
-                object obj = ResourceManager.GetObject("班徽", resourceCulture);
+                object obj = ResourceManager.GetObject("默认图片", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

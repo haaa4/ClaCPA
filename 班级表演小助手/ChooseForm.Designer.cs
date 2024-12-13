@@ -45,7 +45,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Image = global::班级表演小助手.Properties.Resources.默认图片;
             this.pictureBox1.Location = new System.Drawing.Point(44, 33);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(263, 198);
@@ -56,7 +56,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Image = global::班级表演小助手.Properties.Resources.默认图片;
             this.pictureBox2.Location = new System.Drawing.Point(1537, 12);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(320, 219);
@@ -67,7 +67,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::班级表演小助手.Properties.Resources.班徽;
+            this.pictureBox3.Image = global::班级表演小助手.Properties.Resources.默认图片;
             this.pictureBox3.Location = new System.Drawing.Point(44, 825);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(263, 221);
@@ -78,7 +78,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = global::班级表演小助手.Properties.Resources.班徽;
+            this.pictureBox4.Image = global::班级表演小助手.Properties.Resources.默认图片;
             this.pictureBox4.Location = new System.Drawing.Point(779, 825);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(276, 221);
@@ -89,7 +89,7 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Image = global::班级表演小助手.Properties.Resources.班徽;
+            this.pictureBox5.Image = global::班级表演小助手.Properties.Resources.默认图片;
             this.pictureBox5.Location = new System.Drawing.Point(1537, 825);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(320, 221);
